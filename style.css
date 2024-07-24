@@ -1,0 +1,31 @@
+h2{
+    color:orange;
+}
+
+body{
+    background-color: #003838;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header{
+    border-bottom: 0.5px solid grey;
+}
+
+footer{
+    border-top: 0.5px solid grey;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
+
+#isabela{
+    font-weight: lighter;
+    color: lightgray
+}
